@@ -10,3 +10,6 @@ A tiny hotel-guesthouse-bnb-etc booking manager
 
 ### Sections
  - Setup page - initial hotel configuration page
+
+### Prototype
+[Here!](https://marvelapp.com/project/290957/)
